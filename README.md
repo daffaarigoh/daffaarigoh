@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/daffaarigoh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hi+There%2C+I'm+Daffa+Arigoh+%F0%9F%91%8B;Aspiring+AI+Engineer+%F0%9F%A4%96;BBuilding+Production-Grade+RAG+Systems+%E2%9A%A1;Autonomous+AI+Agents+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hi+There%2C+I'm+Daffa+Arigoh+%F0%9F%91%8B;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+RAG+Systems+%E2%9A%A1;Autonomous+AI+Agents+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
