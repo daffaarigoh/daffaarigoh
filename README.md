@@ -93,14 +93,20 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- GitHub Streak & Stats (Dark Mode Neon) -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=daffaarigoh&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daffaarigoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Streak & Stats -->
+  <a href="https://github.com/daffaarigoh">
+    <img height="165" src="https://streak-stats.demolab.com/?user=daffaarigoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/daffaarigoh">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=daffaarigoh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
 
   <br><br>
 
   <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaarigoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/daffaarigoh">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaarigoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 
 </div>
 
