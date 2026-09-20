@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🔭 **Currently Building:** [production-rag-engine](https://github.com/daffaarigoh/production-rag-engine) — An enterprise-grade Hybrid RAG system with Dense + BM25 search, Cross-Encoder reranking, and automated RAGAS evaluation.
 - 💡 **Core Interests:** Production LLMOps, Vector Databases, Fast Inference Architectures, Agentic Workflows (LangGraph).
 - 🌱 **Learning & Researching:** Advanced Context Optimization, Small Language Models (SLMs) fine-tuning, and LLM-as-a-Judge Evaluation.
-- 💬 **Ask me about:** Python, RAG Architecture, FastAPI, Groq Inference, and Vector Embeddings.
+- 💬 **Ask me about:** Python, RAG Architecture, FastAPI, and Vector Embeddings.
 
 ---
 
