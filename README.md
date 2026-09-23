@@ -6,15 +6,15 @@
 
 I build AI applications where retrieval, reasoning, and software engineering meet.
 
-<img src="./assets/ai-engineering-loop.gif" alt="A light animation showing the AI engineering cycle: frame a problem, design and build a system, evaluate it, then improve from production feedback." width="100%">
+<img src="./assets/pixel-ai-workbench.gif" alt="A light pixel-art workbench with an AI engineer robot between a coding monitor and an evaluation dashboard; data pixels move across the scene." width="100%">
 
 *Models are components. Reliable systems are engineered.*
 
 </div>
 
----
+<p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
 
-## What I work on
+<h2><img src="./assets/pixel-spark.png" alt="" width="22" height="22"> What I work on</h2>
 
 I’m interested in the parts of AI engineering that make an LLM application dependable beyond a demo:
 
@@ -23,7 +23,9 @@ I’m interested in the parts of AI engineering that make an LLM application dep
 - **Evaluation:** test cases and retrieval metrics that make changes measurable.
 - **AI backends:** APIs, streaming, data stores, and the operational glue around models.
 
-## Selected work
+<p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
+
+<h2><img src="./assets/pixel-project.png" alt="" width="22" height="22"> Selected work</h2>
 
 ### [Production RAG Engine](https://github.com/daffaarigoh/production-rag-engine)
 
@@ -37,7 +39,9 @@ An enterprise workflow automation platform that connects LLM-driven agents to st
 
 **FastAPI · LangGraph · DuckDB · Typst · Server-Sent Events**
 
-## Tools I use
+<p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
+
+<h2><img src="./assets/pixel-tools.png" alt="" width="22" height="22"> Tools I use</h2>
 
 | Area | Tools |
 |---|---|
@@ -48,17 +52,21 @@ An enterprise workflow automation platform that connects LLM-driven agents to st
 | Storage and delivery | DuckDB, Docker, GitHub Actions |
 | Model access | Groq, OpenAI, Gemini, Ollama |
 
-## How I think about AI systems
+<p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
+
+<h2><img src="./assets/pixel-network.png" alt="" width="22" height="22"> How I think about AI systems</h2>
 
 - A useful answer should show where its evidence came from.
 - An agent should have a clear tool boundary and a safe handoff when judgment belongs to a person.
 - Evaluation should describe the behavior we want to preserve—not just produce a score.
 
-## Connect
+<p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
+
+<h2><img src="./assets/pixel-contact.png" alt="" width="22" height="22"> Connect</h2>
 
 - **Email:** [daffaarigo02@gmail.com](mailto:daffaarigo02@gmail.com)
 - **GitHub:** [@daffaarigoh](https://github.com/daffaarigoh)
 
----
+<p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
 
 <p align="center"><sub>Built around a simple idea: make the reasoning path easier to inspect.</sub></p>
