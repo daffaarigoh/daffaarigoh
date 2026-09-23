@@ -1,116 +1,64 @@
-<!--
-**daffaarigoh/daffaarigoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
-  <!-- Animated Typing SVG Header -->
-  <a href="https://github.com/daffaarigoh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hi+There%2C+I'm+Daffa+Arigoh+%F0%9F%91%8B;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+RAG+Systems+%E2%9A%A1;Autonomous+AI+Agents+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+# Muhammad Daffa Arigoh
 
-  <p align="center">
-    <strong>Crafting intelligent, scalable, and low-latency AI applications.</strong><br>
-    Passionate about LLMs, Hybrid Retrieval-Augmented Generation (RAG), and Autonomous Multi-Agent Workflows.
-  </p>
+**AI Engineer · Retrieval systems · Agentic workflows**
 
-  <!-- Quick Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00F5D4?style=for-the-badge&logo=openai&logoColor=black" />
-    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20LangChain-7B2CBF?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Inference-Groq%20LPU%20Ultra--Fast-F72585?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </p>
+I build AI applications where retrieval, reasoning, and software engineering meet.
+
+<img src="./assets/ai-engineering-loop.gif" alt="A light animation showing the AI engineering cycle: frame a problem, design and build a system, evaluate it, then improve from production feedback." width="100%">
+
+*Models are components. Reliable systems are engineered.*
 
 </div>
 
 ---
 
-### 🧠 About Me
+## What I work on
 
-- 🔭 **Currently Building:** [production-rag-engine](https://github.com/daffaarigoh/production-rag-engine) — An enterprise-grade Hybrid RAG system with Dense + BM25 search, Cross-Encoder reranking, and automated RAGAS evaluation.
-- 💡 **Core Interests:** Production LLMOps, Vector Databases, Fast Inference Architectures, Agentic Workflows (LangGraph).
-- 🌱 **Learning & Researching:** Advanced Context Optimization, Small Language Models (SLMs) fine-tuning, and LLM-as-a-Judge Evaluation.
-- 💬 **Ask me about:** Python, RAG Architecture, FastAPI, and Vector Embeddings.
+I’m interested in the parts of AI engineering that make an LLM application dependable beyond a demo:
 
----
+- **Retrieval:** hybrid search, reranking, source attribution, and context quality.
+- **Agentic systems:** tool-using workflows with explicit boundaries and human approval.
+- **Evaluation:** test cases and retrieval metrics that make changes measurable.
+- **AI backends:** APIs, streaming, data stores, and the operational glue around models.
 
-### 🛠️ Tech Stack & AI Arsenal
+## Selected work
 
-<div align="center">
+### [Production RAG Engine](https://github.com/daffaarigoh/production-rag-engine)
 
-  <!-- Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,linux,bash,postman,vscode&perline=10" />
-  </a>
+A document question-answering system that combines dense retrieval with BM25, fuses rankings, reranks candidates, and returns answers grounded in cited source passages. Includes an evaluation path with RAGAS.
 
-</div>
+**ChromaDB · FastEmbed · BM25 · RRF · FlashRank · FastAPI · RAGAS**
 
-<br>
+### [AutoRestock-Agent](https://github.com/daffaarigoh/AutoRestock-Agent)
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **🤖 LLMs & Agents** | LangChain, LangGraph, Groq LPU, OpenAI, Google Gemini, Ollama |
-| **🔍 Search & Vector DBs** | ChromaDB, Qdrant, BM25 Keyword Search, FlashRank Reranker |
-| **📊 Evaluation & Ops** | RAGAS, Pytest, Docker, GitHub Actions (CI/CD) |
-| **⚡ Backend & Serving** | Python 3.11+, FastAPI, Pydantic v2, Uvicorn, Streamlit |
+An enterprise workflow automation platform that connects LLM-driven agents to structured operations, with role-aware access and human approval steps.
 
----
+**FastAPI · LangGraph · DuckDB · Typst · Server-Sent Events**
 
-### 🚀 Featured Repository
+## Tools I use
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>⚡ <a href="https://github.com/daffaarigoh/production-rag-engine">production-rag-engine</a></h3>
-      <p><em>Enterprise-ready Hybrid RAG Pipeline powered by Groq LPU (Llama 3.3), ChromaDB, BM25, FlashRank Cross-Encoder, and Automated RAGAS Evaluation.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-Framework-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Groq-Ultra--Fast-F55036?style=flat-square" />
-        <img src="https://img.shields.io/badge/ChromaDB-VectorStore-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+| Area | Tools |
+|---|---|
+| LLM applications | LangChain, LangGraph, tool calling, prompt guardrails |
+| Retrieval | ChromaDB, FastEmbed, BM25, RRF, FlashRank, Qdrant |
+| Evaluation | RAGAS, pytest |
+| Backend | Python, FastAPI, Pydantic, Uvicorn |
+| Storage and delivery | DuckDB, Docker, GitHub Actions |
+| Model access | Groq, OpenAI, Gemini, Ollama |
+
+## How I think about AI systems
+
+- A useful answer should show where its evidence came from.
+- An agent should have a clear tool boundary and a safe handoff when judgment belongs to a person.
+- Evaluation should describe the behavior we want to preserve—not just produce a score.
+
+## Connect
+
+- **Email:** [daffaarigo02@gmail.com](mailto:daffaarigo02@gmail.com)
+- **GitHub:** [@daffaarigoh](https://github.com/daffaarigoh)
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-
-  <!-- GitHub Streak & Stats -->
-  <a href="https://github.com/daffaarigoh">
-    <img height="165" src="https://streak-stats.demolab.com/?user=daffaarigoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/daffaarigoh">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=daffaarigoh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/daffaarigoh">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaarigoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Designed & built with 💻 by <b>Daffa Arigoh</b>. Let's connect and build the future of AI together!</sub>
-</div>
-
+<p align="center"><sub>Built around a simple idea: make the reasoning path easier to inspect.</sub></p>
