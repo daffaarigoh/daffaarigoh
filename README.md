@@ -49,7 +49,7 @@ An enterprise workflow automation platform that connects LLM-driven agents to st
 | Retrieval | ChromaDB, FastEmbed, BM25, RRF, FlashRank, Qdrant |
 | Evaluation | RAGAS, pytest |
 | Backend | Python, FastAPI, Pydantic, Uvicorn |
-| Storage and delivery | DuckDB, Docker, GitHub Actions |
+| Storage and delivery | DuckDB, Docker, |
 | Model access | Groq, OpenAI, Gemini |
 
 <p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
