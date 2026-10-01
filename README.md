@@ -50,7 +50,7 @@ An enterprise workflow automation platform that connects LLM-driven agents to st
 | Evaluation | RAGAS, pytest |
 | Backend | Python, FastAPI, Pydantic, Uvicorn |
 | Storage and delivery | DuckDB, Docker, GitHub Actions |
-| Model access | OpenAI, Gemini |
+| Model access | OpenAI, Gemini, Groq |
 
 <p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
 
