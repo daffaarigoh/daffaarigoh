@@ -31,7 +31,7 @@ I’m interested in the parts of AI engineering that make an LLM application dep
 
 A document question-answering system that combines dense retrieval with BM25, fuses rankings, reranks candidates, and returns answers grounded in cited source passages. Includes an evaluation path with RAGAS.
 
-**ChromaDB · FastEmbed · BM25 · RRF · FlashRank · FastAPI · RAGAS**
+**ChromaDB · FastEmbed · BM25 · RRF · FlashRank · FastAPI**
 
 ### [AutoRestock-Agent](https://github.com/daffaarigoh/AutoRestock-Agent)
 
