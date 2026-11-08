@@ -58,7 +58,6 @@ An enterprise workflow automation platform that connects LLM-driven agents to st
 
 - A useful answer should show where its evidence came from.
 - An agent should have a clear tool boundary and a safe handoff when judgment belongs to a person.
-- Evaluation should describe the behavior we want to preserve—not just produce a score.
 
 <p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
 
