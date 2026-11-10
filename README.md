@@ -21,7 +21,6 @@ I’m interested in the parts of AI engineering that make an LLM application dep
 - **Retrieval:** hybrid search, reranking, source attribution, and context quality.
 - **Agentic systems:** tool-using workflows with explicit boundaries and human approval.
 - **Evaluation:** test cases and retrieval metrics that make changes measurable.
-- **AI backends:** APIs, streaming, data stores, and the operational glue around models.
 
 <p align="center"><img src="./assets/pixel-divider.png" alt="" width="100%"></p>
 
